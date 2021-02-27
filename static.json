@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "lidia-andriyanova"
+      "X-Author": "lidia-andriyanova",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
